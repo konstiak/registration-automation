@@ -1,0 +1,40 @@
+[
+    {
+        "kraj": "Žilinský",
+        "miestoId": "Zimný",
+        "terminSelector": "div.col-lg-12:nth-of-type(5) .col-lg-9 div:nth-of-type(6)",
+        "meno": "Meno",
+        "priezvisko": "Priezvisko",
+        "rodneCislo": "8801012020",
+        "telefon": "+421912345678",
+        "email": "test@example.com",
+        "poistovna": "25",
+        "meno2": "Meno",
+        "priezvisko2": "Priezvisko",
+        "telefon2": "+421912345678",
+        "email2": "test@example.com",
+        "mesto": "Žilina",
+        "ulica": "Petzvalova",
+        "cislo": "8",
+        "psc": "01001"
+    },
+    {
+        "kraj": "Žilinský",
+        "miestoId": "Zimný",
+        "terminSelector": "div.col-lg-12:nth-of-type(5) .col-lg-9 div:nth-of-type(6)",
+        "meno": "Meno2",
+        "priezvisko": "Priezvisko2",
+        "rodneCislo": "8801012020",
+        "telefon": "+421912345678",
+        "email": "test@example.com",
+        "poistovna": "25",
+        "meno2": "Meno2",
+        "priezvisko2": "Priezvisko2",
+        "telefon2": "+421912345678",
+        "email2": "test@example.com",
+        "mesto": "Žilina",
+        "ulica": "Petzvalova",
+        "cislo": "8",
+        "psc": "01001"
+    }
+]
